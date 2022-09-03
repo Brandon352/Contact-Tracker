@@ -1,7 +1,7 @@
 # Contact Tracker
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Quick Overview
 
 A simple contact tracker that saves the name and email of contacts. 
 
